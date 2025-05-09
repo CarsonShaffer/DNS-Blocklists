@@ -33,7 +33,6 @@
 ||jtvnw.net^
 ||kanopy.com^
 ||max.com^
-||media-amazon.com^
 ||mubi.com^
 ||nbc.com^
 ||nbcuni.com^
